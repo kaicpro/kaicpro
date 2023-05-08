@@ -1,5 +1,6 @@
-<h1>Hello i'm Staric</h1>
-<h2>welcome to my profile🌞</h2>
+<img src="banner.png"/>
+![](https://komarev.com/ghpvc/?username=Rosemoe)
+A student who loves to create innovative things
 <div>
 <a href="https://github.com/staricdev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staricdev&layout=compact&langs_count=7&theme=dracula"/>
