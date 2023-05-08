@@ -1,5 +1,5 @@
-#Hello i'm Staric
-##welcome to my profile🌞
+<h1>Hello i'm Staric</h1>
+<h2>welcome to my profile</h2>
 <div>
 <a href="https://github.com/staricdev">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staricdev&layout=compact&langs_count=7&theme=dracula"/>
