@@ -1,4 +1,4 @@
-<img src="banner.png" height="330"></img>
+<img src="banner.png" height="330"></img> 
 ![](https://komarev.com/ghpvc/?username=staricdev)  
 A student who loves to create innovative things  
 ## Overall Status 
