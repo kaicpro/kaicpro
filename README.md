@@ -1,4 +1,4 @@
-![](banner.png) 
+![Banner](banner.png) 
 ![](https://komarev.com/ghpvc/?username=staricdev)  
 A student who loves to create innovative things  
 ## Overall Status 
