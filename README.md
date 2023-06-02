@@ -1,4 +1,4 @@
-![Banner](banner.png) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Why are you sleeping Static?;Wake up!)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=staricdev)  
 A student who loves to create innovative things  
 ## Overall Status 
