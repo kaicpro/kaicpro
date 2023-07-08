@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=4000&pause=300&center=true&color=F76464&repeat=true&width=640&height=100&lines=Four+years+of+experience;Focus+on+new+technologies;Being+good+at+what+I+do)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=4000&pause=300&center=true&color=F76464&repeat=true&width=640&height=100&lines=Four+years+of+experience;Focus+on+new+technologies;Being+good+at+what+I+do)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=staricdev)  
 A student who loves to create innovative things
 ## Overall Status 
