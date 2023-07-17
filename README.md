@@ -15,4 +15,4 @@ I started studying programming when I was 11 years old, today I'm 15 years old a
 
 ## Overall Status 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kaicsm&show_icons=true&theme=omni)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicsm&hide=html,css&theme=omni)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicsm&hide=html,css&theme=omni&layoyt=compact)
