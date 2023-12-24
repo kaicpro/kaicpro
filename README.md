@@ -1,5 +1,5 @@
 # Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=4000&pause=300&vCenter=true&color=F76464&repeat=true&width=640&height=70&lines=Four+years+of+experience;Focus+on+new+technologies;Being+good+at+what+I+do)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=40&duration=4000&pause=300&vCenter=true&color=F76464&repeat=true&width=640&height=70&lines=Five+years+of+experience;Focus+on+new+technologies;Being+good+at+what+I+do)](https://git.io/typing-svg)
 <!-- MEDIUM -->
 <a href="https://medium.com/@imkaicsm">
   <img alt="Medium" src="https://img.shields.io/badge/medium-DE996F?style=for-the-badge&logo=medium&logoColor=white"/>
