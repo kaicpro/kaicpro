@@ -10,4 +10,4 @@
 </a> 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kaicsm&show_icons=true&theme=omni)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicsm&hide=html,css&theme=omni&layoyt=compact)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicsm&hide=html,css&theme=omni&layout=compact)
